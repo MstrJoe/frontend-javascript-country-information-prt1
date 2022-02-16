@@ -61,6 +61,7 @@ const searchForm = document.getElementById("search-form");
 searchForm.addEventListener('submit', searchCountries)
 
 function searchCountries(e) {
+
     e.preventDefault()
 
     const inputField = document.getElementById("search-country");
@@ -69,3 +70,4 @@ function searchCountries(e) {
 
 }
 
+//
