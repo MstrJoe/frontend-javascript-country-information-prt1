@@ -2,11 +2,11 @@
   "name": "frontend-javascript-country-information-world-regions",
   "version": "1.0.0",
   "description": "",
-  "main": "src/app.js",
+  "main": "src/indexpage/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "parcel src/index.html",
-    "build": "parcel build src/index.html"
+    "start": "parcel src/indexpage/index.html",
+    "build": "parcel build src/indexpage/index.html"
   },
   "author": "",
   "license": "ISC",
